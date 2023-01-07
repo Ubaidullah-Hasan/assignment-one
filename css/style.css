@@ -160,6 +160,41 @@ main {
     margin-bottom: 24px;
 }
 
+/* Product Marketign */
+.product-marketing {
+    text-align: center;
+
+}
+
+.product-container {
+    display: flex;
+    gap: 20px;
+}
+.product-marketing p{
+    margin: 20px 0 40px;
+}
+
+
+.single-product {
+    width: 25%;
+    padding: 10px;
+    border: 1px solid rgba(189, 188, 188, 0.394);
+    border-radius: 8px;
+    box-shadow: -2px 2px 5px rgb(234, 232, 232);
+}
+
+.single-product h5 {
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 22px;
+    margin: 20px 0;
+}
+
+.single-product button {
+    padding: 5px 8px;
+    margin-bottom: 5px;
+}
+
 
 /* Footer Section */
 #footer {
