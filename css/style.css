@@ -129,11 +129,12 @@ main {
 .plans-container {
     display: flex;
     justify-content: space-between;
+    gap: 4%;
 }
 
 .plan-box {
     text-align: center;
-    width: 25%;
+    width: 22%;
 }
 
 .plan-box h3 {
